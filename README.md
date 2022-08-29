@@ -1,6 +1,8 @@
+[![N|Solid](https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/launcher_icon.png?raw=true)]()
+
 # Stickers Pro
 ###### An amazing new app to create and share fun and cool stickers with your family and friends.
-[![N|Solid](https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/launcher_icon.png?raw=true)]()
+
 
 ## Features
 
