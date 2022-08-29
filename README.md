@@ -43,7 +43,6 @@ Here are some screenshots for reference.
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/14.jpeg?raw=true" height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/15.jpeg?raw=true" height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/16.jpeg?raw=true" height="450px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/17.jpeg?raw=true" height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/18.jpeg?raw=true" height="450px"/>
 </p
     
