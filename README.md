@@ -27,6 +27,7 @@ Sticker Pro Stack
 Here are some screenshots for reference.
 
 <p float="left">
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/19.jpeg?raw=true" height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/1.jpeg?raw=true"  height="450px"/> 
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/2.jpeg?raw=true"  height="450px"/>  
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/3.jpeg?raw=true"  height="450px"/>  
