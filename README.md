@@ -24,6 +24,7 @@ Sticker Pro Stack
 
 He are some screenshots for reference.
 
+<p float="left">
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/1.jpeg?raw=true" height="250px"/> 
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/2.jpeg?raw=true" height="250px"/>  
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/3.jpeg?raw=true" height="250px"/>  
@@ -37,5 +38,5 @@ He are some screenshots for reference.
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/11.jpeg?raw=true" height="250px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/12.jpeg?raw=true" height="250px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/13.jpeg?raw=true" height="250px"/>
- 
+</p>
     
