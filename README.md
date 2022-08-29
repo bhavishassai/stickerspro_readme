@@ -24,7 +24,7 @@ Sticker Pro Stack
 
 
 
-He are some screenshots for reference.
+Here are some screenshots for reference.
 
 <p float="left">
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/1.jpeg?raw=true"  height="450px"/> 
@@ -35,10 +35,15 @@ He are some screenshots for reference.
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/6.jpeg?raw=true"  height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/7.jpeg?raw=true"  height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/8.jpeg?raw=true"  height="450px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/8.jpeg?raw=true"  height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/9.jpeg?raw=true"  height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/10.jpeg?raw=true" height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/11.jpeg?raw=true" height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/12.jpeg?raw=true" height="450px"/>
 <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/13.jpeg?raw=true" height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/14.jpeg?raw=true" height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/15.jpeg?raw=true" height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/16.jpeg?raw=true" height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/17.jpeg?raw=true" height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/18.jpeg?raw=true" height="450px"/>
 </p
     
