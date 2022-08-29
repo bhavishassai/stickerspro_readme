@@ -23,11 +23,14 @@ Sticker Pro Stack
 
 
 He are some screenshots for reference.
+
+|<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/1.jpeg?raw=true" height="200px"/>  | <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/2.jpeg?raw=true" height="200px"/>  | Cont |
+| <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/3.jpeg?raw=true" height="200px"/>  | Content Cell  | Cont |
 <table>
   <tr>
-    <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/1.jpeg?raw=true" height="200px"/>
-    <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/2.jpeg?raw=true" height="200px"/>
-    <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/3.jpeg?raw=true" height="200px"/>
+    
+    
+    
   </tr>
   <tr>
     <img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/4.jpeg?raw=true" height="200px"/>
