@@ -1,6 +1,6 @@
 # Stickers Pro
 ###### An amazing new app to create and share fun and cool stickers with your family and friends.
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid]()]()
 
 ## Features
 
@@ -25,18 +25,18 @@ Sticker Pro Stack
 He are some screenshots for reference.
 
 <p float="left">
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/1.jpeg?raw=true" height="400px"/> 
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/2.jpeg?raw=true" height="400px"/>  
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/3.jpeg?raw=true" height="400px"/>  
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/4.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/5.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/6.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/7.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/8.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/8.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/10.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/11.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/12.jpeg?raw=true" height="400px"/>
-<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/13.jpeg?raw=true" height="400px"/>
-</p>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/1.jpeg?raw=true"  height="450px"/> 
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/2.jpeg?raw=true"  height="450px"/>  
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/3.jpeg?raw=true"  height="450px"/>  
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/4.jpeg?raw=true"  height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/5.jpeg?raw=true"  height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/6.jpeg?raw=true"  height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/7.jpeg?raw=true"  height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/8.jpeg?raw=true"  height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/8.jpeg?raw=true"  height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/10.jpeg?raw=true" height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/11.jpeg?raw=true" height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/12.jpeg?raw=true" height="450px"/>
+<img src="https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/13.jpeg?raw=true" height="450px"/>
+</p
     
