@@ -1,6 +1,6 @@
 # Stickers Pro
 ###### An amazing new app to create and share fun and cool stickers with your family and friends.
-[![N|Solid]()]()
+[![N|Solid](https://github.com/bhavishassai/stickerspro_readme/blob/main/screenshots/launcher_icon.jpeg?raw=true)]()
 
 ## Features
 
